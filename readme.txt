@@ -21,3 +21,6 @@ master：bbbbbbbbb
 
 fenzhi1：aaaaaaaaa
 >>>>>>> fengzhi1
+
+
+我是bug404：已经修复了
